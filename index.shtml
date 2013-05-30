@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Class Notes - Cornell's Original Coed A Capella Group</title>
+<meta name="description" content="The Class Notes: Cornell University's Original Coed A Capella Group in Ithaca, NY." />
+<meta name="Keywords" content="Cornell A Capella, Class Notes, Coed A Capella, Cornell Notes, Cornell Class Notes" />
+
+<link type="text/css" href="styles.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="Masthead">
+<a href="index.shtml"><img src="../images/header.jpg" alt="The Class Notes Home Page" /></a>
+</div>
+
+<!--#include file="links.html" -->
+
+<div id="CenterContent">
+
+<table class="NewsTable">
+	<tr>
+	<th colspan="2">Latest News</th>
+	</tr>
+	<tr>
+		<td>11.01.03 //</td>
+		<td>We finally have a new web site!</td>
+	</tr>
+	<tr>
+		<td>11.01.03 //</td>
+		<td>Congratulations to our three wonderful newbies!</td>
+	</tr>
+	<tr>
+	<td></td>
+	<td>Will Evans '06</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Megan Pedigree '07</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Nellie Thompson '07</td>
+	</tr>
+</table>
+	
+<img src="../images/group-casual.jpg" alt="The Class Notes" width="491" height="367" />
+<p>Blurb about the group. </p>
+</div>
+
+<div id="RightContent">
+	<table class="NewsTable">
+	<tr>
+		<th>Performances</th>
+	</tr>
+	<tr>
+		<td>9.13.03 // 8pm @ Balch</td>
+	</tr>	
+	<tr>
+		<td>Arch Sing w/Hangovers</td>
+	</tr>
+	</table>
+	
+	<table class="NewsTable">
+	<tr>
+		<th>Auditions</th>
+	</tr>
+	<tr>
+		<td>Want to be a Class Note? We hold auditions at the beginning of each semester.</td>
+	</tr>
+	</table>
+</div>
+</body>
+
+</html>

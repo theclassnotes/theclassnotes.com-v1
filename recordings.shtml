@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Class Notes Recordings</title>
+<meta name="description" content="Recordings made by The Class Notes." />
+<meta name="Keywords" content="Cornell A Capella, Class Notes Recording, Coed A Capella, Cornell Notes, Cornell Class Notes" />
+
+<link type="text/css" href="styles.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="Masthead">
+<a href="index.shtml"><img src="../images/header.jpg" alt="The Class Notes Home Page" /></a>
+</div>
+
+<div id="LinkHolder">
+<table id="Links">	
+		<tr>
+			<td><a href="#">Members</a>	</td>
+			<td><a href="recordings.shtml">Recordings</a></td>
+			<td><a href="#">Repertoire</a></td>
+			<td><a href="#">Gallaery</a></td>
+			<td><a href="#">Alumni</a></td>
+			<td><a href="#">Guestbook</a></td>
+			<td><a href="#">Contact</a></td>
+		</tr>
+	</table>
+</div>
+
+<div id="CenterContent">
+<table class="Recordings">
+	<tr valign="top">
+		<td class="RecordHeader">
+		<a href="../afterhours.html">Afterhours</a> - 2001
+		</td>
+		<td class="RecordHeader">
+		<a href="../breakthesilence.html">Break the Silence</a> - 1999
+		</td>
+	</tr>
+	<tr>
+		<td class="RecordSubHeader">
+		Featuring the 1999-2001 Class Notes singing their most popular tracks.
+		</td>
+		<td class="RecordSubHeader">
+		Some of the most talented soloists and tightest harmonies you'll ever hear.
+		</td>
+	</tr>
+	<tr>
+		<td class="Center">
+		<a href="../afterhours.html"><img src="../img/cdAfterhours.gif" alt="Afterhours"></a>
+		</td>
+		<td class="Center">
+		<a href="../breakthesilence.html"><img src="../img/cdBreakTheSilence.gif" alt="Break the Silence"></a>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td class="RecordHeader">
+		<a href="../destinations.html">Destinations</a> - 1996
+		</td>
+		<td class="RecordHeader">
+		<a href="../naturally.html">Naturally</a> - 1994
+		</td>
+	</tr>
+	<tr>
+		<td class="RecordSubHeader">
+		The first major studio accomplishment, featuring the best the 80s had to offer.
+		</td>
+		<td class="RecordSubHeader">
+		The one that started it all, featuring humor and music that's going to rock you.
+		</td>
+	</tr>
+	<tr>
+		<td class="Center">
+		<a href="../destinations.html"><img src="../img/cdDestinations.gif"  alt="Destinations"></a>
+		</td>
+		<td class="Center">
+		<a href="../naturally.html"><img src="../img/cdNaturally.gif" alt="Naturally"></a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="RecordFooter">
+		<a href="../webstore.html">visit the online store</a>
+		<br />
+		to mail order our
+		<br />
+		albums today
+		</td>
+	</tr>
+</table>
+</div>
+</body>
+</html>

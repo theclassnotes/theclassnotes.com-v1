@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Members of The Class Notes</title>
+<meta name="description" content="The Class Notes: Cornell University's Original Coed A Capella Group in Ithaca, NY." />
+<meta name="Keywords" content="Cornell A Capella, Class Notes, Coed A Capella, Cornell Notes, Cornell Class Notes" />
+
+<link type="text/css" href="../styles.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="Masthead">
+<a href="../index.shtml"><img src="../../images/header.jpg" alt="The Class Notes Home Page" /></a>
+</div>
+
+<!--#include virtual="/new/links.html" -->
+
+<div id="CenterContent">
+
+	
+<img src="../../images/group-formal.jpg" alt="The Class Notes" width="491" height="367" border="0" usemap="#Map" />
+<map name="Map" id="Map">
+  <area shape="rect" coords="15,125,82,365" href=".././members/1.html" />
+  <area shape="rect" coords="53,85,94,126" href="#" />
+  <area shape="rect" coords="83,125,93,364" href="#" />
+  <area shape="rect" coords="99,126,154,366" href="#" />
+  <area shape="rect" coords="131,83,165,126" href="#" />
+  <area shape="poly" coords="303,115,289,173" href="#" />
+  <area shape="rect" coords="200,76,231,124" href="#" />
+  <area shape="poly" coords="212,129,262,117,275,364,224,362" href="#" />
+  <area shape="poly" coords="267,70,272,159,293,124,299,74" href="#" />
+  <area shape="poly" coords="301,114,288,171,289,364,337,363,340,173,326,114" href="../alee.shtml" />
+  <area shape="poly" coords="342,93,335,141,355,141,365,120,371,96" href="#" />
+  <area shape="poly" coords="370,121,349,174" href="#" />
+  <area shape="poly" coords="378,120,349,172,346,365,403,363,407,182" href="#" />
+  <area shape="poly" coords="396,102,399,152,413,181,424,148,427,101" href="#" />
+  <area shape="poly" coords="438,123,424,165,417,363,473,364,475,125" href="#" />
+  <area shape="poly" coords="191,111,160,164,163,364,208,365,208,128" href="#" />
+</map>
+<p>Click on someone in the picture or choose from the list on the right! </p>
+</div>
+
+<!--#include file="member-list.html" -->
+</body>
+
+</html>
